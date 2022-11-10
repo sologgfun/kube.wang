@@ -65,4 +65,4 @@ intro: |
 
 ## -
 
-Hint: you can get to this page via [devhints.io/gutom](https://devhints.io/gutom) 🍅🍟
+Hint: you can get to this page via [kube.wang/gutom](https://kube.wang/gutom) 🍅🍟

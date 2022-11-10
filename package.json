@@ -1,10 +1,11 @@
 {
   "name": "cheatsheets",
-  "description": "Devhints.io",
+  "description": "kube.wang",
   "version": "1.0.0",
   "author": "Rico Sta. Cruz <rstacruz@users.noreply.github.com>",
   "dependencies": {
     "autoprefixer": "^9.8.2",
+    "browserslist": "^4.21.4",
     "dom101": "^2.2.1",
     "hint.css": "^2.6.0",
     "isotope-layout": "^3.0.6",
@@ -28,7 +29,7 @@
     "prettier": "^2.0.5",
     "wait-on": "^5.0.1"
   },
-  "homepage": "https://devhints.io/",
+  "homepage": "https://kube.wang/",
   "jest": {
     "snapshotSerializers": [
       "<rootDir>/node_modules/jest-html"
